@@ -47,7 +47,7 @@ I'd love to connect on LinkedIn!
 
 
 <p align="center">
- <img width="1000" src="workflows/github-snake.svg" alt="snake"/>
+ <img width="1000" src="github-snake.svg" alt="snake"/>
 </p>
 
 
