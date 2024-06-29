@@ -14,3 +14,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Tomas Sbardelotto Dos Santos
+
+![Profile Views](https://shields.io/github/user/profile-views)
+![Followers](https://shields.io/github/followers/user)
+
+## Introduction
+
+Hello! I'm Your Name, a passionate developer...
+
+## Skills
+
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+- ![React](https://img.shields.io/badge/-React-blue)
+- ...
+
+## Projects
+
+### [Project Name](project-link)
+Description of the project...
+
+## Contact
+
+- [Email](mailto:your-email)
+- [LinkedIn](linkedin-profile)
+- [GitHub](https://github.com/your-username)
