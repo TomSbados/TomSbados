@@ -47,6 +47,7 @@ I'd love to connect on LinkedIn!
 
 
 <p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+  <img src="https://github.com/TomSbados/TomSbados/blob/output/github-snake.svg" alt="snake"/>
 </p>
+
 
