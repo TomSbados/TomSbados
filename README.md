@@ -43,4 +43,4 @@ I'm an aspiring data scientist with a knack for predictive analytics, specializi
  <img width="1000" src="github-snake.svg" alt="snake"/>
 </p>
 
-
+"Good artists copy, great artists steal" - Steve Jobs
