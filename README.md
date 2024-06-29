@@ -1,9 +1,11 @@
 ## About Me:    
 I'm an aspiring data scientist with a strong foundation in mathematics and research experience. My interests lie in predictive analytics, recurrent neural networks (RNN), and LSTM models. I excel in tackling regression tasks and enjoy exploring the realm of reinforcement learning (RL). Additionally, I possess skills in classical machine learning and the necessary mathematical knowledge to support my work.
 
-### Social media: 📡  [LinkedIn](www.linkedin.com/in/tomas-sbardelotto-dos-santos-365031272)
+### Social media 📡  [LinkedIn](www.linkedin.com/in/tomas-sbardelotto-dos-santos-365031272)
 
 ### Algorithms 🧪 [LeetCode](https://leetcode.com/tomsbados/)
+
+### My Resume 📄 [Resume](correct_resume.pdf)
 
 ## Favorite Projects:
 
