@@ -1,17 +1,15 @@
-### About Me:    
-I'm a passionate data scientist with a knack for predictive analytics, specializing in recurrent neural networks (RNN) and LSTM models. I thrive on tackling regression tasks and exploring the fascinating realm of reinforcement learning (RL). Additionally, I have a strong foundation in classical machine learning and possess the requisite mathematical prowess.
+## About Me:    
+I'm an aspiring data scientist with a strong foundation in mathematics and research experience. My interests lie in predictive analytics, recurrent neural networks (RNN), and LSTM models. I excel in tackling regression tasks and enjoy exploring the realm of reinforcement learning (RL). Additionally, I possess skills in classical machine learning and the necessary mathematical knowledge to support my work.
 
+### Social media: 📡  [LinkedIn](www.linkedin.com/in/tomas-sbardelotto-dos-santos-365031272)
 
-### Social media: 📡    
-I'd love to connect on LinkedIn!
+### Algorithms 🧪 [LeetCode](https://leetcode.com/tomsbados/)
 
-[LinkedIn](www.linkedin.com/in/tomas-sbardelotto-dos-santos-365031272)
+## Favorite Projects:
 
-### Algorithms [LeetCode](https://leetcode.com/tomsbados/)
+[Geodesics and Brownian Motion](https://github.com/TomSbados/MATH197--)
 
-
-
-### Working on: 🚀
+[Training a Bigram Language Model on my Latex Homework](https://github.com/TomSbados/Langauge-Model-Practice)
 
 
 ## Languages and Tools 
@@ -47,7 +45,7 @@ I'd love to connect on LinkedIn!
 
 
 <p align="center">
- <img width="1000" src="workflows/github-snake.svg" alt="snake"/>
+ <img width="1000" src="github-snake.svg" alt="snake"/>
 </p>
 
-
+"Good artists copy, great artists steal" - Steve Jobs
