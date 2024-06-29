@@ -1,17 +1,10 @@
 ### About Me:    
-I'm a passionate data scientist with a knack for predictive analytics, specializing in recurrent neural networks (RNN) and LSTM models. I thrive on tackling regression tasks and exploring the fascinating realm of reinforcement learning (RL). Additionally, I have a strong foundation in classical machine learning and possess the requisite mathematical prowess.
+I'm an aspiring data scientist with a knack for predictive analytics, specializing in recurrent neural networks (RNN) and LSTM models. I thrive on tackling regression tasks and exploring the fascinating realm of reinforcement learning (RL). Additionally, I have a strong foundation in classical machine learning and possess the requisite mathematical prowess.
 
 
-### Social media: 📡    
-I'd love to connect on LinkedIn!
+### Social media: 📡  [LinkedIn](www.linkedin.com/in/tomas-sbardelotto-dos-santos-365031272)
 
-[LinkedIn](www.linkedin.com/in/tomas-sbardelotto-dos-santos-365031272)
-
-### Algorithms [LeetCode](https://leetcode.com/tomsbados/)
-
-
-
-### Working on: 🚀
+### Algorithms 🧪 [LeetCode](https://leetcode.com/tomsbados/)
 
 
 ## Languages and Tools 
