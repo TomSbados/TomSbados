@@ -5,7 +5,7 @@ I'm an aspiring data scientist with a strong foundation in mathematics and resea
 
 ### Algorithms 🧪 [LeetCode](https://leetcode.com/tomsbados/)
 
-### My Resume 📄 [Resume](correct_resume.pdf)
+### My Resume 📄 [Resume](Resume_final.pdf)
 
 ## Favorite Projects:
 
