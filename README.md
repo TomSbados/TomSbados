@@ -49,5 +49,3 @@ I'm an aspiring data scientist with a strong foundation in mathematics and resea
 <p align="center">
  <img width="1000" src="github-snake.svg" alt="snake"/>
 </p>
-
-"Good artists copy, great artists steal" - Steve Jobs
