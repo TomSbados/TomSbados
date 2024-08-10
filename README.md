@@ -1,5 +1,5 @@
 ## About Me:    
-I'm an aspiring data scientist with a strong foundation in mathematics and research experience. My interests lie in predictive analytics, recurrent neural networks (RNN), and LSTM models. I excel in tackling regression tasks and enjoy exploring the realm of reinforcement learning (RL). Additionally, I possess skills in classical machine learning and the necessary mathematical knowledge to support my work.
+I'm an aspiring data scientist with a strong foundation in mathematics and research experience. I excel in tackling regression tasks and enjoy exploring the realm of reinforcement learning (RL). Additionally, I possess skills in classical machine learning and the necessary mathematical knowledge to support my work.
 
 ### Personal Website 💻 [Website](https://tomsbados.github.io/Tomas-Portfolio)
 
