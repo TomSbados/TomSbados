@@ -11,9 +11,11 @@ I'm an aspiring data scientist with a strong foundation in mathematics and resea
 
 ## Favorite Projects:
 
+[Coding Scikit-Learn from Scratch (Slowly but surely)](https://github.com/TomSbados/SklearnFromScratch)
+
 [Geodesics and Brownian Motion](https://github.com/TomSbados/MATH197--)
 
-[Training a Bigram Language Model on my Latex Homework](https://github.com/TomSbados/Langauge-Model-Practice)
+[Training a Language Model on my Latex Homework](https://github.com/TomSbados/Langauge-Model-Practice)
 
 
 ## Languages and Tools 
