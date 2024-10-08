@@ -1,5 +1,5 @@
 ## About Me:    
-I'm an aspiring data scientist with a strong foundation in mathematics and research experience. I excel in tackling regression tasks and enjoy exploring the realm of LLMs. Additionally, I possess skills in classical machine learning and the necessary mathematical knowledge to support my work.
+I'm an aspiring data scientist with a strong foundation in mathematics and research experience. I excel in tackling regression tasks and enjoy exploring the realm of LLMs and Reinforcement Learning. Additionally, I possess skills in classical machine learning and the necessary mathematical knowledge to support my work. I am looking for roles involving the full data lifecycle and am eager to learn and improve my skills.
 
 ### Personal Website 💻 [Website](https://tomsbados.github.io/Tomas-Portfolio)
 
