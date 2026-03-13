@@ -1,7 +1,7 @@
 ## About Me:    
-Hi, I'm Tomas! 👋 I'm a Data Scientist with a degree in Mathematics, which provides me with a rigorous foundation for tackling complex analytical and algorithmic problems. While I have deep experience in classical machine learning and regression tasks, my current focus lies at the intersection of **causal inference** and AI. I am passionate about moving beyond simple correlation to understand the "why" behind data. 
+Hi, I'm Tomas! 👋 I'm a Data Scientist with a degree in Mathematics. While I have deep experience in classical machine learning and regression tasks, my current focus lies at the intersection of **causal inference** and AI. I am passionate about moving beyond simple correlation to understand the "why" behind data. 
 
-Alongside my analytical work, I love tinkering with Large Language Models (LLMs) and bridging the gap between research and reality by building robust, full-stack production applications. I thrive in roles that let me own the full data lifecycle—from data engineering and model fine-tuning to deploying scalable, user-facing solutions.
+Alongside my analytical work, I love tinkering with Large Language Models (LLMs) and bridging the gap between research and reality by building robust, full-stack production applications. I enjoy roles that let me own the full data lifecycle—from data engineering and model fine-tuning to deploying scalable, user-facing solutions.
 
 ### 🌐 Links
 * **Portfolio:** [tomsbados.github.io](https://tomsbados.github.io/Tomas-Portfolio)
@@ -12,7 +12,7 @@ Alongside my analytical work, I love tinkering with Large Language Models (LLMs)
 
 ## 🚀 Featured Project:
 
-**[ClarifiEd AI](YOUR_LINK_HERE)** An AI-powered EdTech application designed to streamline administrative workflows for teachers. ClarifiEd integrates directly with the Google Classroom API to automatically analyze daily assignments and map them to state educational standards (like Common Core). It leverages carefully tuned LLM pipelines for accurate curriculum auditing, wrapped in a production-ready stack featuring a React frontend, Python backend, and Supabase database architecture.
+**[ClarifiEd AI](clarified-frontend-one.vercel.app)** An AI-powered EdTech application designed to streamline administrative workflows for teachers. ClarifiEd integrates directly with the Google Classroom API to automatically analyze daily assignments and map them to state educational standards (like Common Core). It leverages carefully tuned LLM pipelines for accurate curriculum auditing, wrapped in a production-ready stack featuring a React frontend, Python backend, and Supabase database architecture.
 
 ---
 
