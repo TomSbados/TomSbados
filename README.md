@@ -12,7 +12,7 @@ Alongside my analytical work, I love tinkering with Large Language Models (LLMs)
 
 ## 🚀 Featured Project:
 
-**[ClarifiEd AI](https://clarified-frontend-one.vercel.app)** An AI-powered EdTech application designed to streamline administrative workflows for teachers. ClarifiEd integrates directly with the Google Classroom API to automatically analyze daily assignments and map them to state educational standards (like Common Core). It leverages carefully tuned LLM pipelines for accurate curriculum auditing, wrapped in a production-ready stack featuring a React frontend, Python backend, and Supabase database architecture.
+**[ClarifiEd](https://clarified-frontend-one.vercel.app)** An AI-powered EdTech application designed to streamline administrative workflows for teachers. ClarifiEd integrates directly with the Google Classroom API to automatically analyze daily assignments and map them to state educational standards (like Common Core). It leverages carefully tuned LLM pipelines for accurate curriculum auditing, wrapped in a production-ready stack featuring a React frontend, Python backend, and Supabase database architecture.
 
 ---
 
